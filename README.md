@@ -1,1 +1,1 @@
-# Rsut code samples
+# Rust code samples
